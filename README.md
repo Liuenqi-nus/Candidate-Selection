@@ -1,1 +1,4 @@
 # Candidate-Selection
+This code demonstrates a simple end-to-end process for scoring and ranking resumes based on both rule-based (structured) criteria and text-based (TF-IDF) similarity. It first loads and parses each resume’s text to extract key fields such as highest education, years of experience, and relevant certifications. These structured features are then scored according to predefined rules. Simultaneously, each resume’s text is scored against a user-defined query using TF-IDF cosine similarity to capture semantic relevance.
+
+Finally, the two scores (rule-based and TF-IDF) are normalized and combined (using a configurable weight) to produce a hybrid ranking. This approach highlights how a blend of straightforward heuristics and natural language processing techniques can provide a more robust and flexible candidate ranking.
