@@ -1,0 +1,33 @@
+Candidate ID: C009
+Personal Information
+
+    Name: Anna Johansson
+    Gender: Female
+    Age: 33
+    Contact:
+        Phone: (+1) 666-777-8888
+        Email: anna.johansson@example.com
+    Languages: English, Swedish
+
+Education
+
+    Master’s Degree in International Business
+
+Work Experience
+
+    Total Years of Work Experience: 10
+    Industry Experience: Manufacturing
+    Relevant HR Experience: 8 years
+
+Anna Johansson has 10 years of experience in manufacturing, with 8 years spent in HR roles. Her main areas of expertise include promoting diversity and inclusion programs and benchmarking HR practices against industry standards.
+Key Skills
+
+    Diversity and Inclusion
+    Benchmarking
+
+Anna designs and executes D&I initiatives that align with corporate values and boost employee satisfaction. She also conducts benchmarking analyses to gauge her organization’s HR policies and programs against competitors and industry leaders.
+Certification
+
+    SHRM-SCP (Society for Human Resource Management – Senior Certified Professional)
+
+By achieving the SHRM-SCP certification, Anna demonstrates strong strategic leadership, comprehensive HR knowledge, and an ability to align HR practices with business objectives.

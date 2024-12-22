@@ -1,0 +1,33 @@
+Candidate ID: C007
+Personal Information
+
+    Name: Ling Wei
+    Gender: Male
+    Age: 45
+    Contact:
+        Phone: (+1) 444-555-6666
+        Email: ling.wei@example.com
+    Languages: English, Mandarin
+
+Education
+
+    MBA
+
+Work Experience
+
+    Total Years of Work Experience: 22
+    Industry Experience: Banking
+    Relevant HR Experience: 20 years
+
+Ling Wei has extensive experience in the banking sector, having spent 22 years in various managerial and HR capacities, including 20 years specifically in HR-related roles. He is well-versed in negotiating contracts and overseeing global mobility programs.
+Key Skills
+
+    Negotiation
+    Global Mobility
+
+Ling focuses on building strategic partnerships, both internally and externally, to negotiate employment terms, vendor contracts, and cross-border HR policies. His global mobility expertise includes relocation policies and handling expatriate assignments.
+Certification
+
+    GRP (Global Remuneration Professional)
+
+Ling’s GRP certification underscores his proficiency in designing and administering compensation programs on a multinational scale, ensuring compliance with local laws and global standards.

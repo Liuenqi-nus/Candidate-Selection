@@ -1,0 +1,33 @@
+Candidate ID: C004
+Personal Information
+
+    Name: Sophia Lee
+    Gender: Female
+    Age: 30
+    Contact:
+        Phone: (+1) 111-222-3333
+        Email: sophia.lee@example.com
+    Languages: English, Korean
+
+Education
+
+    Bachelor’s Degree in Finance
+
+Work Experience
+
+    Total Years of Work Experience: 8
+    Industry Experience: Finance
+    Relevant HR Experience: 7 years
+
+Sophia Lee has worked in the finance industry for 8 years, predominantly focusing on human resources for the past 7 years. She has managed budgeting and benefits planning projects, helping to optimize organizations’ compensation and benefits strategies.
+Key Skills
+
+    Benefits Planning
+    Budgeting
+
+Sophia is adept at creating comprehensive benefits packages that fit within an organization’s budget while remaining competitive. She has also worked closely with cross-functional teams to forecast and manage HR-related expenses.
+Certification
+
+    GRP (Global Remuneration Professional)
+
+With a GRP certification, Sophia demonstrates expertise in global compensation and benefits design, administration, and strategy.

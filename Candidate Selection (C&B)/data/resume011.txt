@@ -1,0 +1,33 @@
+Candidate ID: C011
+Personal Information
+
+    Name: Fatima Ali
+    Gender: Female
+    Age: 26
+    Contact:
+        Phone: (+1) 888-999-0000
+        Email: fatima.ali@example.com
+    Languages: English, Urdu
+
+Education
+
+    Bachelor’s Degree in Public Administration
+
+Work Experience
+
+    Total Years of Work Experience: 4
+    Industry Experience: Government
+    Relevant HR Experience: 3 years
+
+Fatima Ali has been working in the government sector for 4 years, focusing on project management and payroll processes within HR for the past 3 years.
+Key Skills
+
+    Project Management
+    Payroll
+
+Fatima efficiently oversees HR projects from planning to execution and is well-versed in payroll administration, ensuring compliance with government regulations.
+Certification
+
+    PHR (Professional in Human Resources)
+
+With a PHR certification, Fatima demonstrates her fundamental knowledge of HR operations, including recruitment, compensation, and labor law compliance.

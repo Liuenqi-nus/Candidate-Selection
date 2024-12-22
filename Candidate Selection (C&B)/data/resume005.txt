@@ -1,0 +1,33 @@
+Candidate ID: C005
+Personal Information
+
+    Name: Ahmed Khan
+    Gender: Male
+    Age: 37
+    Contact:
+        Phone: (+1) 222-333-4444
+        Email: ahmed.khan@example.com
+    Languages: English, Arabic
+
+Education
+
+    Bachelor’s Degree in Economics
+
+Work Experience
+
+    Total Years of Work Experience: 15
+    Industry Experience: Consulting
+    Relevant HR Experience: 12 years
+
+Ahmed Khan has 15 years of professional experience in consulting, with a strong focus on human resources leadership and talent acquisition over the last 12 years. He specializes in guiding organizations through complex transformations and leadership strategies.
+Key Skills
+
+    Leadership
+    Talent Acquisition
+
+Ahmed has led multiple large-scale recruitment drives, working closely with senior leadership to identify and develop talent pipelines. He also designs leadership development programs and fosters a culture of continuous improvement.
+Certification
+
+    SHRM-SCP (Society for Human Resource Management – Senior Certified Professional)
+
+By earning the SHRM-SCP certification, Ahmed demonstrates deep knowledge and strategic application of HR practices, workforce planning, and global HR leadership.

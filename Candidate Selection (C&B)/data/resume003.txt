@@ -1,0 +1,33 @@
+Candidate ID: C003
+Personal Information
+
+    Name: Ravi Patel
+    Gender: Male
+    Age: 42
+    Contact:
+        Phone: (+1) 345-678-9012
+        Email: ravi.patel@example.com
+    Languages: English, Hindi
+
+Education
+
+    Bachelor’s Degree in Psychology
+
+Work Experience
+
+    Total Years of Work Experience: 20
+    Industry Experience: Healthcare
+    Relevant HR Experience: 15 years
+
+Ravi Patel has 15 years of HR experience in the healthcare industry, having held positions including Recruiter, Training Manager, and HR Director. He has strong expertise in employee relations and compliance across varied cultural and policy environments.
+Key Skills
+
+    Employee Relations
+    Compliance
+
+Ravi excels at handling employee conflicts and fostering a positive corporate culture, while remaining up to date with labor laws and industry regulations. He has led multiple compliance audit projects, ensuring that internal processes and external operations meet legal and industry standards.
+Certification
+
+    PHR (Professional in Human Resources)
+
+Ravi’s PHR certification demonstrates his professional knowledge in recruitment, compensation and benefits, training and development, performance management, and HR-related regulations and policies.

@@ -1,0 +1,33 @@
+Candidate ID: C008
+Personal Information
+
+    Name: Carlos Garcia
+    Gender: Male
+    Age: 40
+    Contact:
+        Phone: (+1) 555-666-7777
+        Email: carlos.garcia@example.com
+    Languages: English, Spanish
+
+Education
+
+    Bachelor’s Degree in Business Administration
+
+Work Experience
+
+    Total Years of Work Experience: 18
+    Industry Experience: Logistics
+    Relevant HR Experience: 14 years
+
+Carlos Garcia has dedicated 18 years to the logistics sector, focusing on human resources functions for 14 of those years. His expertise lies in strategic workforce planning and equity programs.
+Key Skills
+
+    Workforce Planning
+    Equity Programs
+
+Carlos aligns workforce planning with organizational objectives, ensuring the right talent is available at the right time. He also develops and implements equity initiatives, fostering a fair and inclusive workplace culture.
+Certification
+
+    CCP (Certified Compensation Professional)
+
+Carlos’s CCP certification validates his expertise in compensation design, analysis, and implementation, including wage structures and benefits administration.

@@ -1,0 +1,33 @@
+Candidate ID: C002
+Personal Information
+
+    Name: Maria Chen
+    Gender: Female
+    Age: 28
+    Contact:
+        Phone: (+1) 234-567-8901
+        Email: maria.chen@example.com
+    Languages: English, Mandarin
+
+Education
+
+    Master’s Degree in HR Management
+
+Work Experience
+
+    Total Years of Work Experience: 6
+    Industry Experience: Technology
+    Relevant HR Experience: 5 years
+
+Maria Chen has spent 6 years in the technology industry, primarily responsible for designing compensation structures, managing payroll, and maintaining HR information systems. She has also gained practical experience in talent attraction and retention.
+Key Skills
+
+    Compensation Strategy
+    Payroll Systems
+
+Maria is skilled in designing and optimizing compensation and benefits programs in multicultural, fast-paced environments. She is familiar with common payroll processes and has led several compensation projects from implementation to monitoring.
+Certification
+
+    CCP (Certified Compensation Professional)
+
+Maria’s CCP certification signifies her expertise in compensation plan design, market salary research, and strategic decision-making regarding pay structures.

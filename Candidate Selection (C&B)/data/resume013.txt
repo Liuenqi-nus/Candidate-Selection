@@ -1,0 +1,33 @@
+Candidate ID: C013
+Personal Information
+
+    Name: Elena Petrova
+    Gender: Female
+    Age: 36
+    Contact:
+        Phone: (+1) 111-000-2222
+        Email: elena.petrova@example.com
+    Languages: English, Russian
+
+Education
+
+    Bachelor’s Degree in Industrial Relations
+
+Work Experience
+
+    Total Years of Work Experience: 14
+    Industry Experience: Construction
+    Relevant HR Experience: 13 years
+
+Elena Petrova has 14 years of industry experience in construction, with 13 years dedicated to HR, focusing heavily on benefits administration and employee wellness initiatives.
+Key Skills
+
+    Benefits Administration
+    Employee Wellness
+
+Elena establishes and manages comprehensive benefits packages that meet diverse employee needs while remaining cost-effective. She also implements wellness programs designed to improve work-life balance and reduce absenteeism.
+Certification
+
+    CCP (Certified Compensation Professional)
+
+Elena’s CCP certification highlights her expertise in compensation structures, benefits design, and regulatory compliance within HR.

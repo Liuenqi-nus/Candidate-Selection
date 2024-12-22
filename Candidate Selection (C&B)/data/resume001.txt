@@ -1,0 +1,33 @@
+Candidate ID: C001
+Personal Information
+
+    Name: John Smith
+    Gender: Male
+    Age: 35
+    Contact:
+        Phone: (+1) 123-456-7890
+        Email: john.smith@example.com
+    Languages: English
+
+Education
+
+    Bachelor’s Degree in Business Administration
+
+Work Experience
+
+    Total Years of Work Experience: 12
+    Industry Experience: Retail
+    Relevant HR Experience: 10 years
+
+During his 12-year career, John Smith has worked in the retail industry focusing on management and human resources. He has extensive experience in team management, employee recruitment, and training.
+Key Skills
+
+    Data Analysis
+    HRIS Management
+
+John excels at using data analysis to improve HR decision-making, including recruitment efficiency, performance evaluations, and compensation optimization. He is also experienced in managing HRIS (Human Resources Information Systems), integrating various HR processes, and generating actionable reports.
+Certification
+
+    SHRM-CP (Society for Human Resource Management – Certified Professional)
+
+By earning the SHRM-CP certification, John has demonstrated comprehensive knowledge in strategic human resource management, employee relations, compliance, and recruitment.

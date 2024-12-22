@@ -1,0 +1,33 @@
+Candidate ID: C014
+Personal Information
+
+    Name: Liam O’Connor
+    Gender: Male
+    Age: 39
+    Contact:
+        Phone: (+1) 222-111-3333
+        Email: liam.oconnor@example.com
+    Languages: English
+
+Education
+
+    Bachelor’s Degree in HR Management
+
+Work Experience
+
+    Total Years of Work Experience: 17
+    Industry Experience: Finance
+    Relevant HR Experience: 16 years
+
+Liam O’Connor has dedicated 17 years to the finance sector, focusing on HR strategy and execution for 16 of those years. His specialty is developing total rewards programs and leveraging metrics to support strategic decisions.
+Key Skills
+
+    Total Rewards Strategy
+    Metrics
+
+Liam designs comprehensive compensation and benefits packages that align with an organization’s culture and business objectives. He also utilizes HR metrics to forecast talent needs, track performance, and drive continuous improvement.
+Certification
+
+    GRP (Global Remuneration Professional)
+
+Liam’s GRP certification reflects his proficiency in designing and managing global remuneration and rewards programs.

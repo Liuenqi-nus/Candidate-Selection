@@ -1,0 +1,33 @@
+Candidate ID: C012
+Personal Information
+
+    Name: George Müller
+    Gender: Male
+    Age: 50
+    Contact:
+        Phone: (+1) 999-000-1111
+        Email: george.mueller@example.com
+    Languages: English, German
+
+Education
+
+    Diploma in HR
+
+Work Experience
+
+    Total Years of Work Experience: 25
+    Industry Experience: Education
+    Relevant HR Experience: 22 years
+
+George Müller has 25 years of professional experience in the education sector, with 22 of those dedicated to HR. He excels in mentoring staff and implementing succession planning initiatives to ensure long-term organizational stability.
+Key Skills
+
+    Mentorship
+    Succession Planning
+
+George designs and leads mentorship programs that identify high-potential employees and guide them toward leadership roles. He also establishes structured succession plans for key positions, safeguarding institutional continuity.
+Certification
+
+    SHRM-CP (Society for Human Resource Management – Certified Professional)
+
+George’s SHRM-CP certification affirms his broad-based HR knowledge, including staffing, performance management, and compliance.
